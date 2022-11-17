@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  test_lab_06_4_it.cpp
+C:\Users\Acer\source\repos\AP_Lab_06_4_it\AP_Lab_06_4_it\lab_06_4_it.cpp(68,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\Acer\source\repos\AP_Lab_06_4_it\Debug\test_lab_06_4_it.lib and object C:\Users\Acer\source\repos\AP_Lab_06_4_it\Debug\test_lab_06_4_it.exp
+  test_lab_06_4_it.vcxproj -> C:\Users\Acer\source\repos\AP_Lab_06_4_it\Debug\test_lab_06_4_it.dll
